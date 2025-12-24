@@ -17,7 +17,7 @@ B.Tech CSE Student | Full Stack Developer (React) | ML & DSA Learner
 - 🧠 Learning **Data Structures & Algorithms**
 - 🤖 Exploring **Machine Learning**
 - 🐍 Comfortable with **Python**
-- 🐧 Working in **Linux environment**
+
 - 🏆 **3rd Year Mini Project – 3rd Prize Winner**
 - 🎯 **Event Manager** – College Technical Events
 - 📫 Email: **priyanshutayal35@gmail.com**
