@@ -58,7 +58,7 @@ B.Tech CSE Student | Full Stack Developer (React) | ML & DSA Learner
 ## 🏆 Achievements & Leadership
 - 🥉 **3rd Position – 3rd Year Mini Project Competition**
 - 🎤 **Event Manager** for College Technical Events
-- 🏆 Smart India Hackathon 2025 Participant
+- 🏆 Smart India Hackathon 2025 Finalist
 - 🤝 Strong in **team coordination & communication**
 
 ---
